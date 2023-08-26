@@ -12,11 +12,8 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     SOURCE_TXT = """
 <b>Hᴇʏ, Tʜɪs ɪs ᴀ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
-
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
-
 Wᴀɴᴛ ᴛʜɪs Bᴏᴛ Rᴇᴘᴏ? - <a href='https://github.com/TeamHMT/Auto-search-tamil-bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b> 🙃</b>
-
 Mᴏʀᴇ Iɴғᴏ Aʙᴏᴜᴛ ᴛʜɪs Rᴇᴘᴏ - <a href='https://t.me/TeamHMT_Bots/142'>ᴅᴏᴜʙʟᴇ ᴛᴀᴘ</a></b>
 """
 
