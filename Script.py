@@ -1,20 +1,20 @@
 class script(object):
     START_TXT = """𝐇𝐞𝐥𝐥𝐨... {}
     
-𝐌𝐲 𝐍𝐚𝐦𝐞 𝐈𝐬 <a href=https://t.me/Binthu_x_robot><b>🏞 𝐊𝐮𝐭𝐭𝐲 𝐏𝐚𝐚𝐩𝐚 🎇</b></a>
+𝐌𝐲 𝐍𝐚𝐦𝐞 𝐈𝐬 <a href=https://t.me/Binthu_x_robot><b>☔𝐊𝐮𝐭𝐭𝐲 𝐏𝐚𝐚𝐩𝐚♣</b></a>
 
 𝐈 𝐂𝐚𝐧 𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐌𝐨𝐯𝐢𝐞𝐬, 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝 𝐌𝐚𝐤𝐞 𝐌𝐞 𝐀𝐝𝐦𝐢𝐧.. 𝐓𝐡𝐞𝐧 𝐒𝐞𝐞 𝐌𝐲 𝐏𝐨𝐰𝐞𝐫
 
 𝐌𝐚𝐤𝐞𝐫 𝐌𝐞 <a href=https://t.me/SMD_Owner><b>♣𝐀𝐮𝐭𝐡𝐨𝐫🥀</b></a></b>"""
     HELP_TXT = """<b>𝐇𝐞𝐲 {} 𝐅𝐫𝐢𝐞𝐧𝐝𝐬 𝐇𝐞𝐫𝐞 𝐘𝐨𝐮𝐫 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 👇</b>"""
 
-    ABOUT_TXT = """<b>🎧 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 : <a href=https://t.me/Binthu_x_robot>🏞 𝐊𝐮𝐭𝐭𝐲 𝐏𝐚𝐚𝐩𝐚 🎇</a>
-😈 𝐀𝐫𝐭𝐢𝐬𝐭 : <a href=https://t.me/Owner_of_qtmve>🍁𝐂𝐨𝐝𝐞𝐫🎎</a>
-👑 𝐃𝐞𝐯𝐨𝐥𝐨𝐩𝐞𝐫 : <a href=https://t.me/SMD_Owner>🌿𝐉𝐨𝐛𝐛𝐢 𝐂𝐫⚜️</a>
-✍️ 𝐆𝐫𝐚𝐝𝐮𝐚𝐭𝐞 : <a href=https://t.me/Siva_Soft>🛬𝐌𝐚𝐚𝐦𝐚🚦</a>
-♠ 𝐊𝐨𝐥𝐚𝐫𝐮 : <a href=https://t.me/Svaraz>🎭𝐌𝐚𝐜𝐡𝐢𝐢🔥</a>
-👨‍🔧 𝐇𝐞𝐥𝐩𝐞𝐫 : <a href=https://t.me/Thavarajtj>🦞𝐓𝐉 𝐁𝐡𝐚𝐢 🌿</a>
-⚜️ 𝐐𝐭𝐯𝐬𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 : <a href=https://t.me/QTVS_BOT_X_CLOUD>🥀𝐌𝐚𝐫𝐯𝐞𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐞🎋</a></b>"""
+    ABOUT_TXT = """<b>🎧 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 : <a href=https://t.me/Binthu_x_robot>♣𝐊𝐮𝐭𝐭𝐲 𝐏𝐚𝐚𝐩𝐚♻️</a>
+🔥 𝐀𝐫𝐭𝐢𝐬𝐭 : <a href=https://t.me/Owner_of_qtmve>🍁𝐐𝐭𝐦𝐯𝐞_𝐎𝐰𝐧𝐞𝐫☔</a>
+🍻 𝐃𝐞𝐯𝐨𝐥𝐨𝐩𝐞𝐫 : <a href=https://t.me/SMD_Owner>🎋𝐒𝐌𝐃_𝐎𝐰𝐧𝐞𝐫🦞</a>
+✍️ 𝐆𝐫𝐚𝐝𝐮𝐚𝐭𝐞 : <a href=https://t.me/Siva_Soft>🛬𝐒𝐢𝐯𝐚🚦</a>
+♠ 𝐊𝐨𝐥𝐚𝐫𝐮 : <a href=https://t.me/Svaraz>🎭𝐔𝐚𝐫𝐮𝐭𝐨🔥</a>
+👨‍🔧 𝐇𝐞𝐥𝐩𝐞𝐫 : <a href=https://t.me/Thavarajtj>🗽𝐓𝐡𝐚𝐯𝐚𝐫𝐚𝐣🌿</a>
+⚜️ 𝐐𝐭𝐯𝐬𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 : <a href=https://t.me/QTVS_BOT_X_CLOUD>🥀𝐌𝐚𝐫𝐯𝐞𝐥🎋</a></b>"""
 
     SOURCE_TXT = """𝐓𝐡𝐢𝐬 𝐈𝐬 𝐀𝐧 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐁𝐲 @SMD_Owner
 
@@ -125,19 +125,19 @@ Nᴀᴍᴇ - {}"""
     CUDNT_FND = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}
 ᴅɪᴅ ʏᴏᴜ ᴍᴇᴀɴ ᴀɴʏ ᴏɴᴇ ᴏꜰ ᴛʜᴇꜱᴇ?"""
 
-    I_CUDNT = """<b>sᴏʀʀʏ ɴᴏ ꜰɪʟᴇs ᴡᴇʀᴇ ꜰᴏᴜɴᴅ ꜰᴏʀ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ {} 😕
+    I_CUDNT = """<b>𝐒𝐨𝐫𝐫𝐲 𝐍𝐨 𝐅𝐢𝐥𝐞𝐬 𝐖𝐞𝐫𝐞 𝐅𝐨𝐮𝐧𝐝 𝐅𝐨𝐫 𝐘𝐨𝐮𝐫 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 {} 😕
 
-ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ 😃
+𝐂𝐡𝐞𝐜𝐤 𝐘𝐨𝐮𝐫 𝐒𝐩𝐞𝐥𝐥𝐢𝐧𝐠 𝐈𝐧 𝐆𝐨𝐨𝐠𝐥𝐞 𝐀𝐧𝐝 𝐓𝐫𝐲 𝐀𝐠𝐚𝐢𝐧 🤹‍♂️
 
-ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
+𝐌𝐨𝐯𝐢𝐞 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐓𝐲𝐩𝐞 🏵🎬👇
 
-ᴇxᴀᴍᴘʟᴇ : Uncharted or Uncharted 2022 or Uncharted En
+𝐄𝐱𝐚𝐦𝐩𝐥𝐞💖 : 𝐔𝐧𝐜𝐡𝐚𝐫𝐭𝐞𝐝 𝐨𝐫 𝐔𝐧𝐜𝐡𝐚𝐫𝐭𝐞𝐝 𝟐𝟎𝟐𝟐 𝐨𝐫 𝐔𝐧𝐜𝐡𝐚𝐫𝐭𝐞𝐝 𝐄𝐧
 
-ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
+𝐒𝐞𝐫𝐢𝐞𝐬 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐓𝐲𝐩𝐞 🏵🎬👇
 
-ᴇxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
+𝐄𝐱𝐚𝐦𝐩𝐥𝐞 💖 : 𝐋𝐨𝐤𝐢 𝐒𝟎𝟏 𝐨𝐫 𝐋𝐨𝐤𝐢 𝐒𝟎𝟏𝐄𝟎𝟒 𝐨𝐫 𝐋𝐮𝐜𝐢𝐟𝐞𝐫 𝐒𝟎𝟑𝐄𝟐𝟒
 
-🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
+😡🙏🤬 𝐃𝐨𝐧'𝐭 𝐔𝐬𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬 ➠ ':(!,./)</b>"""
 
     I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
 ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ..."""
@@ -200,7 +200,11 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>🗂FileName : <code>{file_name}</code>       🏷FileSize : <code>{file_size}</code>           ╔════ 🔰𝐉𝐨𝐢𝐧 𝐖𝐢𝐭𝐡 𝐔𝐬🔰 ════╗▫️<a href=t.me/SAM_DUB_LEZHa>🗽𝐌𝐚𝐢𝐧 𝐇𝐮𝐛</a>▫️<a href=t.me/SAM_DUB_LEEZZA>♻️𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩☔​</a>╚════ 🦞𝐉𝐨𝐢𝐧 𝐖𝐢𝐭𝐡 𝐔𝐬🥀 ════╝</b>""" 
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}<b>
+╔════ 𝐉𝐨𝐢𝐧 𝐖𝐢𝐭𝐡 𝐔𝐬 ════╗
+▫️<a href=https://t.me/SAM_DUB_LEZHa> 🗽𝐌𝐚𝐢𝐧 𝐂𝐇𝐍𝐋🏞 </a>
+▫️<a href=https://t.me/SAM_DUB_LEEZZa> 🎋𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐂𝐇𝐍𝐋☔​ </a>
+╚════ 𝐉𝐨𝐢𝐧 𝐖𝐢𝐭𝐡 𝐔𝐬 ════╝</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
