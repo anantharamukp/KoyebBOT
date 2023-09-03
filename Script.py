@@ -200,7 +200,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """"<b>🗂FileName : <code>{file_name}</code> \n\n🏷FileSize : <code>{file_size}</code>\n\n👀🎋  𝐔𝐩𝐝𝐚𝐭𝐞 ♥ :  @SAM_DUB_LEZHa🎋\n\n🎋 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 ♥ :  @SAM_DUB_LEEZZa🎋</b>""" 
+    CAPTION = """<b>🗂FileName : <code>{file_name}</code> \n🏷FileSize : <code>{file_size}</code>\n👀🎋 𝐔𝐩𝐝𝐚𝐭𝐞 ♥ : @SAM_DUB_LEZHa🎋\n🎋 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 ♥ : @SAM_DUB_LEEZZa🎋</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
