@@ -200,11 +200,15 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>🗂FileName : <code>{file_name}</code>
-🏷FileSize : <code>{file_size}</code></b>
+    CAPTION = """<b>🗂FileName : <code>{file_name}</code> 
 
-╔════ 🔰𝐉𝐨𝐢𝐧 𝐖𝐢𝐭𝐡 𝐔𝐬🔰 ════╗
-<a href=t.me/SAM_DUB_LEZHa> 🗽𝐌𝐚𝐢𝐧 𝐇𝐮𝐛</a><a href=t.me/SAM_DUB_LEEZZA> ♻️𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩☔ </a>
+🏷FileSize : <code>{file_size}</code>
+
+♻️Join  Now ❤️‍🔥: @SAM_DUB_LEZHa </b>
+
+👀╔════ 🔰𝐉𝐨𝐢𝐧 𝐖𝐢𝐭𝐡 𝐔𝐬🔰 ════╗
+▫️<a href=t.me/SAM_DUB_LEZHa> 🗽𝐌𝐚𝐢𝐧 𝐇𝐮𝐛♠</a>
+▫️<a href=t.me/SAM_DUB_LEEZZA> ♻️𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩☔​ </a>
 ╚════ 🦞𝐉𝐨𝐢𝐧 𝐖𝐢𝐭𝐡 𝐔𝐬🥀 ════╝</b>""" 
 
     IMDB_TEMPLATE_TXT = """
