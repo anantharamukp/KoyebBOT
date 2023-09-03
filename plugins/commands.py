@@ -54,7 +54,7 @@ async def start(client, message):
                     InlineKeyboardButton('🏞 𝐉𝐨𝐢𝐧 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🎇', url='t.me/SAM_DUB_LEZHa')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgUAAxkBAAICDmT0DVpl9-iHgimx-X9dQP8WF9YDAAK4BgACA1RYVnuTt7VBrB2XMAQ") 
+        m=await message.reply_sticker("CCAACAgUAAxkBAAICB2T0IB5D_CUQcCIuz0uZG4s6RtQSAAL5BwACvb-JVJLiDCu3Q_ABMAQ") 
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
