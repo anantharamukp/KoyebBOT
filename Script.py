@@ -207,8 +207,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 ♻️Join  Now ❤️‍🔥: @SAM_DUB_LEZHa </b>
 
 👀╔════ 🔰𝐉𝐨𝐢𝐧 𝐖𝐢𝐭𝐡 𝐔𝐬🔰 ════╗
-▫️<a href=t.me/SAM_DUB_LEZHa> 🗽𝐌𝐚𝐢𝐧 𝐇𝐮𝐛♠</a>
-▫️<a href=t.me/SAM_DUB_LEEZZA> ♻️𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩☔​ </a>
+▫️<a href=t.me/SAM_DUB_LEZHa>🗽𝐌𝐚𝐢𝐧 𝐇𝐮𝐛♠</a>
+▫️<a href=t.me/SAM_DUB_LEEZZA>♻️𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩☔​ </a>
 ╚════ 🦞𝐉𝐨𝐢𝐧 𝐖𝐢𝐭𝐡 𝐔𝐬🥀 ════╝</b>""" 
 
     IMDB_TEMPLATE_TXT = """
