@@ -1429,7 +1429,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "extra":
         buttons = [[
             InlineKeyboardButton('❄ 𝐁𝐚𝐜𝐤𝐰𝐚𝐫𝐝 ❄', callback_data='help'),
-            InlineKeyboardButton('☔𝐀𝐝𝐦𝐢𝐧🌎', callback_data='admin')
+            InlineKeyboardButton('☔𝐀𝐝𝐦𝐢𝐧🌎', callback_data='help')
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
