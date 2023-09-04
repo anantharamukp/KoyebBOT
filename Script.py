@@ -200,12 +200,18 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}<b>
-╔════ 𝐉𝐨𝐢𝐧 𝐖𝐢𝐭𝐡 𝐔𝐬 ════╗
-▫️<a href=https://t.me/SAM_DUB_LEZHa> 🗽𝐌𝐚𝐢𝐧 𝐂𝐇𝐍𝐋🏞 </a>
-▫️<a href=https://t.me/SAM_DUB_LEEZZa> 🎋𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐂𝐇𝐍𝐋☔​ </a>
-╚════ 𝐉𝐨𝐢𝐧 𝐖𝐢𝐭𝐡 𝐔𝐬 ════╝</b>"""
+    CAPTION = """
+<b>📂 𝐅𝐢𝐥𝐞 𝐍𝐚𝐦𝐞 : </b> <code>{file_name}</code>
 
+<b>
+╭─────── • ◆ • ───────╮
+🔅 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛:  <a href="https://t.me/SAM_DUB_LEZHa">♻️𝐂𝐥𝐢𝐜𝐤♻️</a>
+╰─────── • ◆ • ───────╯
+
+=========== • ✠ • ===========
+▫️ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : @SAM_DUB_LEZHa
+▫️ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩 : @SAM_DUB_LEEZZa
+=========== • ✠ • ===========</b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
