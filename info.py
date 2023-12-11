@@ -13,9 +13,9 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '13415474'))
-API_HASH = environ.get('API_HASH', '01bb828c0429beeabd6e9e841d026231')
-BOT_TOKEN = environ.get('BOT_TOKEN', "6645851482:AAHRmxlHif4pu7-Fo8z_LMRBrJ5WIbNhlH4")
+API_ID = int(environ.get('API_ID', '29843112'))
+API_HASH = environ.get('API_HASH', '7519cd035add179edec5c84933ab6622')
+BOT_TOKEN = environ.get('BOT_TOKEN', "6694528458:AAHsBr-hcD1ZZKFBAvKMMVb3VCpC3aiYf2E")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -28,7 +28,7 @@ SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/f6466cc7f17f54ab0ff
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '885675538').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001825890594').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001930479071').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '885675538').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '').split()]
@@ -43,7 +43,7 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://smdfilt:smdfilt@cluster0.zar9gml.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Tessafilt:Tessafilt10@cluster0.ltnqxjp.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
@@ -61,7 +61,7 @@ CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+j1Z12sl21vw1Mjdl')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/SMD_Dulinks/28')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', '𝐖𝐡𝐚𝐭 𝐀𝐫𝐞 𝐘𝐨𝐮 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐀 ?')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001723140225'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001832202316'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+j1Z12sl21vw1Mjdl')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
@@ -75,7 +75,7 @@ LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False")
 SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "True"), True)
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
 INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', LOG_CHANNEL))
-FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1001825890594')).split()]
+FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1001930479071')).split()]
 MELCOW_NEW_USERS = is_enabled((environ.get('MELCOW_NEW_USERS', "True")), True)
 PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), False)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
