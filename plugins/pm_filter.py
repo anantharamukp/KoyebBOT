@@ -1250,7 +1250,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('🍁𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐔 𝐑 𝐆𝐫𝐨𝐮𝐩🍁', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url=CHNL_LNK),
-                    InlineKeyboardButton('❄ 𝐑𝐞𝐪 𝐆𝐫𝐨𝐮𝐩 🥀', url=GRP_LNK))
+                    InlineKeyboardButton('❄ 𝐑𝐞𝐪 𝐆𝐫𝐨𝐮𝐩 🥀', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('🌿𝐇𝐞𝐥𝐩🎧', callback_data='help'),
                     InlineKeyboardButton('♣𝐀𝐛𝐨𝐮𝐭🥀', callback_data='about')
@@ -1316,7 +1316,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🛐𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧🚻', callback_data='coct'),
             InlineKeyboardButton('🌋 𝐌𝐨𝐨𝐝𝐬 🏯', callback_data='extra')
         ], [
-            InlineKeyboardButton('♠𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞🌿', callback_data='start'),
+            InlineKeyboardButton('♠𝐇𝐨𝐦𝐞🌿', callback_data='start'),
             InlineKeyboardButton('🌹𝐂𝐡𝐞𝐚𝐤 𝐒𝐭𝐚𝐭𝐬🗽', callback_data='stats')
         ]]
         
