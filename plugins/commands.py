@@ -153,10 +153,10 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url=f'https://t.me/+SJRv2hIgyUxiZjk1'),
-                          InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/+SJRv2hIgyUxiZjk1')
+                          InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url=f'https://t.me/AR_MoviesWorld_2k'),
+                          InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/AR_MoviesWorld_2k')
                        ],[
-                          InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="https://t.me/+SJRv2hIgyUxiZjk1")
+                          InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="http://t.me/+xqfxWxoePGs4ZWJl")
                          ]
                         ]
                     )
@@ -173,9 +173,9 @@ async def start(client, message):
                         [
                          [
                           InlineKeyboardButton('🦞 𝐀𝐮𝐭𝐡𝐨𝐫 ❄', url=f'https://t.me/{SUPPORT_CHAT}'),
-                          InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/+SJRv2hIgyUxiZjk1')
+                          InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/AR_MoviesWorld_2k')
                        ],[
-                          InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="https://t.me/+SJRv2hIgyUxiZjk1")
+                          InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="http://t.me/+xqfxWxoePGs4ZWJl")
                          ]
                         ]
                     )
@@ -261,7 +261,7 @@ async def start(client, message):
                     [
                         InlineKeyboardButton('🎋 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐍𝐨𝐰 ♠', url=g)
                     ], [
-                        InlineKeyboardButton('👁‍🗨 𝐇𝐨𝐰 𝐭𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 👁‍🗨', url='https://t.me/+SJRv2hIgyUxiZjk1')
+                        InlineKeyboardButton('👁‍🗨 𝐇𝐨𝐰 𝐭𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 👁‍🗨', url='https://t.me/AR_MoviesWorld_2k/4')
                     ]
                 ]
             )
@@ -282,7 +282,7 @@ async def start(client, message):
                     [
                         InlineKeyboardButton('🎋 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐍𝐨𝐰 ♠', url=g)
                     ], [
-                        InlineKeyboardButton('👁‍🗨 𝐇𝐨𝐰 𝐭𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 👁‍🗨', url='https://t.me/+SJRv2hIgyUxiZjk1')
+                        InlineKeyboardButton('👁‍🗨 𝐇𝐨𝐰 𝐭𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 👁‍🗨', url='https://t.me/AR_MoviesWorld_2k/4')
                     ]
                 ]
             )
@@ -329,10 +329,10 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url=f'https://t.me/+SJRv2hIgyUxiZjk1'),
-                      InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/+SJRv2hIgyUxiZjk1')
+                      InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url=f'https://t.me/AR_MoviesWorld_2k'),
+                      InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/AR_MoviesWorld_2k')
                    ],[
-                      InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="https://t.me/+SJRv2hIgyUxiZjk1")
+                      InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="http://t.me/+xqfxWxoePGs4ZWJl")
                      ]
                     ]
                 )
@@ -361,7 +361,7 @@ async def start(client, message):
                         [
                             InlineKeyboardButton('🎋 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐍𝐨𝐰 ♠', url=g)
                         ], [
-                            InlineKeyboardButton('👁‍🗨 𝐇𝐨𝐰 𝐭𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 👁‍🗨', url='https://t.me/+SJRv2hIgyUxiZjk1')
+                            InlineKeyboardButton('👁‍🗨 𝐇𝐨𝐰 𝐭𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 👁‍🗨', url='https://t.me/AR_MoviesWorld_2k/4')
                         ]
                     ]
                 )
@@ -391,10 +391,10 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url=f'https://t.me/+SJRv2hIgyUxiZjk1'),
-                      InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/+SJRv2hIgyUxiZjk1')
+                      InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url=f'https://t.me/AR_MoviesWorld_2k'),
+                      InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/AR_MoviesWorld_2k')
                    ],[
-                      InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="https://t.me/+SJRv2hIgyUxiZjk1")
+                      InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="http://t.me/+xqfxWxoePGs4ZWJl")
                      ]
                     ]
                 )
@@ -451,10 +451,10 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url=f'https://t.me/+SJRv2hIgyUxiZjk1'),
-              InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/+SJRv2hIgyUxiZjk1')
+              InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url=f'https://t.me/AR_MoviesWorld_2k'),
+              InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url='https://t.me/AR_MoviesWorld_2k')
            ],[
-              InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="https://t.me/+SJRv2hIgyUxiZjk1")
+              InlineKeyboardButton("❄ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐆𝐫𝐨𝐮𝐩 🥀", url="http://t.me/+xqfxWxoePGs4ZWJl")
              ]
             ]
         )
