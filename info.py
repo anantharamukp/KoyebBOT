@@ -13,9 +13,9 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '24409160'))
-API_HASH = environ.get('API_HASH', 'a6e5f67ac91b7a5d4fd03458edd3287b')
-BOT_TOKEN = environ.get('BOT_TOKEN', "6651968247:AAGmSPDBw3Pa1BRN124TTVaISJtL7p5gmnE")
+API_ID = int(environ.get('API_ID', '27335730'))
+API_HASH = environ.get('API_HASH', 'ae5a5f660ffdf3e08997d493c32932f5')
+BOT_TOKEN = environ.get('BOT_TOKEN', "6146666877:AAHHCGUWcJJok7KwFAX1iKbQqcVSN3DRZDg")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -27,7 +27,7 @@ MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/5f4126f0a68828857
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/f6466cc7f17f54ab0ff3e.jpg")
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5284357398').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1735392935').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001908976749').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '885675538').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
@@ -43,8 +43,8 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://boldboyvinoth2020:boldboyvinoth2020@cluster0.1stvkzz.mongodb.net/?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('DATABASE_NAME', "boldboyvinoth2020")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://anantharamu400:anantharamu400@cluster0.jw6ptpl.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_NAME = environ.get('DATABASE_NAME', "anantharamu400")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
@@ -56,12 +56,12 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 MAX_B_TN = environ.get("MAX_B_TN", "10")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/hdmovie98763')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+SJRv2hIgyUxiZjk1')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/+SJRv2hIgyUxiZjk1')
+GRP_LNK = environ.get('GRP_LNK', 'http://telegram.me/+xqfxWxoePGs4ZWJl')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/AR_MoviesWorld_2k')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/ARmoviesworldBackup')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', '𝐖𝐡𝐚𝐭 𝐀𝐫𝐞 𝐘𝐨𝐮 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐀 ?')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001919132347'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001661350712'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '++SJRv2hIgyUxiZjk1')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
